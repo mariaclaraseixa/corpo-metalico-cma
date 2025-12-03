@@ -48,11 +48,7 @@ O limite de escoamento foi determinado pelo critério adotado no relatório:
  
  - Tensão Máxima (σₘₐₓ)
 
-A tensão máxima corresponde ao maior valor de tensão registrado na curva:
-
-\sigma_{\text{máx}} = \max(\sigma)
-
-Física: indica a resistência máxima do material antes do início do estricamento (necking).
+A tensão máxima corresponde ao maior valor de tensão registrado na curva e indica a resistência máxima do material antes do início do estricamento.
 
 - Tenacidade (Uₜ)
 
